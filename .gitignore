@@ -1,0 +1,4 @@
+__pycache__/
+frames_*/
+vf_*/
+*.mp4
